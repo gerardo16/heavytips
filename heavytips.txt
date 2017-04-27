@@ -1,4 +1,11 @@
 <html>
+<head>
+<title>heavytips</title>
+</head>
+<Body>
+<h1>heavytips</h1>
+</body>
+</html>
 weights
 chest
 legs 
@@ -11,5 +18,5 @@ protein
 time
 pain
 soreness
-</html>
+
 
