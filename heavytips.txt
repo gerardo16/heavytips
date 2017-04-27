@@ -1,5 +1,4 @@
 <html>
-<html>
 weights
 chest
 legs 
@@ -12,4 +11,5 @@ protein
 time
 pain
 soreness
+</html>
 
